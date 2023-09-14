@@ -1,0 +1,90 @@
+[2023-09-13 12:55:52.621] [puff::index::jointLog] [info] Running fixFasta
+[2023-09-13 12:55:53.469] [puff::index::jointLog] [warning] Entry with header [ENST00000682202.1|ENSG00000243480.8|OTTHUMG00000011023.3|-|AMY2A-204|AMY2A|19|protein_coding_CDS_not_defined|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:55:55.852] [puff::index::jointLog] [warning] Entry with header [ENST00000473810.1|ENSG00000239255.1|OTTHUMG00000157482.1|OTTHUMT00000348942.1|RPL29P34-201|RPL29P34|25|processed_pseudogene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:55:56.025] [puff::index::jointLog] [warning] Entry with header [ENST00000603775.1|ENSG00000271544.1|OTTHUMG00000184300.1|OTTHUMT00000468575.1|ENST00000603775|ENSG00000271544|23|processed_pseudogene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:55:58.229] [puff::index::jointLog] [warning] Entry with header [ENST00000632684.1|ENSG00000282431.1|OTTHUMG00000190602.2|OTTHUMT00000485301.2|TRBD1-202|TRBD1|12|TR_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:55:58.229] [puff::index::jointLog] [warning] Entry with header [ENST00000710614.1|ENSG00000292271.1|-|-|ENST00000710614|ENSG00000292271|16|TR_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.035] [puff::index::jointLog] [warning] Entry with header [ENST00000543745.1|ENSG00000255972.1|OTTHUMG00000168883.1|OTTHUMT00000401485.1|ENST00000543745|ENSG00000255972|28|processed_pseudogene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.351] [puff::index::jointLog] [warning] Entry with header [ENST00000415118.1|ENSG00000223997.1|OTTHUMG00000170844.2|OTTHUMT00000410670.2|TRDD1-201|TRDD1|8|TR_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.351] [puff::index::jointLog] [warning] Entry with header [ENST00000434970.2|ENSG00000237235.2|OTTHUMG00000170845.2|OTTHUMT00000410671.2|TRDD2-201|TRDD2|9|TR_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.351] [puff::index::jointLog] [warning] Entry with header [ENST00000448914.1|ENSG00000228985.1|OTTHUMG00000170846.2|OTTHUMT00000410672.2|TRDD3-201|TRDD3|13|TR_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000439842.1|ENSG00000236597.1|OTTHUMG00000152435.2|OTTHUMT00000326213.2|IGHD7-27-201|IGHD7-27|11|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000390567.1|ENSG00000211907.1|OTTHUMG00000152429.2|OTTHUMT00000326207.2|IGHD1-26-201|IGHD1-26|20|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000452198.1|ENSG00000225825.1|OTTHUMG00000152436.2|OTTHUMT00000326214.2|IGHD6-25-201|IGHD6-25|18|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000390569.1|ENSG00000211909.1|OTTHUMG00000152427.2|OTTHUMT00000326205.2|IGHD5-24-201|IGHD5-24|20|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000437320.1|ENSG00000227196.1|OTTHUMG00000152438.2|OTTHUMT00000326216.2|IGHD4-23-201|IGHD4-23|19|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000390571.1|ENSG00000211911.1|OTTHUMG00000152434.2|OTTHUMT00000326212.2|IGHD3-22-201|IGHD3-22|31|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000390572.1|ENSG00000211912.1|OTTHUMG00000152428.2|OTTHUMT00000326206.2|IGHD2-21-201|IGHD2-21|28|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000450276.1|ENSG00000237020.1|OTTHUMG00000152432.2|OTTHUMT00000326210.2|IGHD1-20-201|IGHD1-20|17|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000390574.1|ENSG00000211914.1|OTTHUMG00000152431.2|OTTHUMT00000326209.2|IGHD6-19-201|IGHD6-19|21|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000390575.1|ENSG00000211915.1|OTTHUMG00000152433.2|OTTHUMT00000326211.2|IGHD5-18-201|IGHD5-18|20|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000431870.1|ENSG00000227800.1|OTTHUMG00000152437.2|OTTHUMT00000326215.2|IGHD4-17-201|IGHD4-17|16|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000390578.1|ENSG00000211918.1|OTTHUMG00000152430.2|OTTHUMT00000326208.2|IGHD2-15-201|IGHD2-15|31|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000451044.1|ENSG00000227108.1|OTTHUMG00000152369.2|OTTHUMT00000326003.2|IGHD1-14-201|IGHD1-14|17|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000390580.1|ENSG00000211920.1|OTTHUMG00000152370.2|OTTHUMT00000326004.2|IGHD6-13-201|IGHD6-13|21|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000390581.1|ENSG00000211921.1|OTTHUMG00000152367.2|OTTHUMT00000326001.2|IGHD5-12-201|IGHD5-12|23|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000431440.2|ENSG00000232543.2|OTTHUMG00000152368.2|OTTHUMT00000326002.2|IGHD4-11-201|IGHD4-11|16|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000390583.1|ENSG00000211923.1|OTTHUMG00000152354.3|OTTHUMT00000325960.3|IGHD3-10-201|IGHD3-10|31|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000390584.1|ENSG00000211924.1|OTTHUMG00000152352.2|OTTHUMT00000325958.2|IGHD3-9-201|IGHD3-9|31|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000390585.1|ENSG00000211925.1|OTTHUMG00000152361.2|OTTHUMT00000325967.2|IGHD2-8-201|IGHD2-8|31|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000430425.1|ENSG00000237197.1|OTTHUMG00000152357.2|OTTHUMT00000325963.2|IGHD1-7-201|IGHD1-7|17|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000454691.1|ENSG00000228131.1|OTTHUMG00000152353.2|OTTHUMT00000325959.2|IGHD6-6-201|IGHD6-6|18|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000390588.1|ENSG00000211928.1|OTTHUMG00000152360.2|OTTHUMT00000325966.2|IGHD5-5-201|IGHD5-5|20|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000414852.1|ENSG00000233655.1|OTTHUMG00000152355.2|OTTHUMT00000325961.2|IGHD4-4-201|IGHD4-4|16|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000390590.1|ENSG00000211930.1|OTTHUMG00000152358.2|OTTHUMT00000325964.2|IGHD3-3-201|IGHD3-3|31|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000390591.1|ENSG00000211931.1|OTTHUMG00000152356.2|OTTHUMT00000325962.2|IGHD2-2-201|IGHD2-2|31|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.737] [puff::index::jointLog] [warning] Entry with header [ENST00000454908.1|ENSG00000236170.1|OTTHUMG00000152359.2|OTTHUMT00000325965.2|IGHD1-1-201|IGHD1-1|17|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.738] [puff::index::jointLog] [warning] Entry with header [ENST00000518246.1|ENSG00000254045.1|OTTHUMG00000152060.1|OTTHUMT00000325154.1|IGHVIII-22-2-201|IGHVIII-22-2|28|IG_V_pseudogene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.740] [puff::index::jointLog] [warning] Entry with header [ENST00000604642.1|ENSG00000270961.1|OTTHUMG00000184622.2|OTTHUMT00000468982.2|IGHD5OR15-5A-201|IGHD5OR15-5A|23|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.740] [puff::index::jointLog] [warning] Entry with header [ENST00000603326.1|ENSG00000271317.1|OTTHUMG00000184621.3|OTTHUMT00000468981.3|IGHD4OR15-4A-201|IGHD4OR15-4A|19|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.740] [puff::index::jointLog] [warning] Entry with header [ENST00000604950.1|ENSG00000282520.1|OTTHUMG00000184598.3|OTTHUMT00000468928.3|IGHD3OR15-3A-201|IGHD3OR15-3A|31|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.740] [puff::index::jointLog] [warning] Entry with header [ENST00000603077.1|ENSG00000282599.1|OTTHUMG00000184594.3|OTTHUMT00000468924.3|IGHD2OR15-2A-201|IGHD2OR15-2A|31|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.740] [puff::index::jointLog] [warning] Entry with header [ENST00000605284.1|ENSG00000271336.1|OTTHUMG00000184580.2|OTTHUMT00000468908.2|IGHD1OR15-1A-201|IGHD1OR15-1A|17|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.744] [puff::index::jointLog] [warning] Entry with header [ENST00000604446.1|ENSG00000270824.1|OTTHUMG00000184624.2|OTTHUMT00000468984.2|IGHD5OR15-5B-201|IGHD5OR15-5B|23|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.744] [puff::index::jointLog] [warning] Entry with header [ENST00000603693.1|ENSG00000270451.1|OTTHUMG00000184611.3|OTTHUMT00000468945.3|IGHD4OR15-4B-201|IGHD4OR15-4B|19|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.744] [puff::index::jointLog] [warning] Entry with header [ENST00000603935.1|ENSG00000282089.1|OTTHUMG00000184596.4|OTTHUMT00000468926.4|IGHD3OR15-3B-201|IGHD3OR15-3B|31|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.744] [puff::index::jointLog] [warning] Entry with header [ENST00000604102.1|ENSG00000282268.1|OTTHUMG00000184595.3|OTTHUMT00000468925.3|IGHD2OR15-2B-201|IGHD2OR15-2B|31|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:01.744] [puff::index::jointLog] [warning] Entry with header [ENST00000604838.1|ENSG00000270185.1|OTTHUMG00000184585.2|OTTHUMT00000468915.2|IGHD1OR15-1B-201|IGHD1OR15-1B|17|IG_D_gene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:02.842] [puff::index::jointLog] [warning] Entry with header [ENST00000692460.1|ENSG00000140943.18|OTTHUMG00000137639.8|-|MBTPS1-217|MBTPS1|27|protein_coding|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:03.084] [puff::index::jointLog] [warning] Entry with header [ENST00000579054.1|ENSG00000266416.1|OTTHUMG00000179204.1|OTTHUMT00000445280.1|ENST00000579054|ENSG00000266416|28|processed_pseudogene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:56:03.986] [puff::index::jointLog] [warning] Entry with header [ENST00000634174.1|ENSG00000282732.1|OTTHUMG00000191398.1|OTTHUMT00000487783.1|ENST00000634174|ENSG00000282732|28|unprocessed_pseudogene|], had length less than equal to the k-mer length of 31 (perhaps after poly-A clipping)
+[2023-09-13 12:57:23.683] [puff::index::jointLog] [warning] Removed 880 transcripts that were sequence duplicates of indexed transcripts.
+[2023-09-13 12:57:23.683] [puff::index::jointLog] [warning] If you wish to retain duplicate transcripts, please use the `--keepDuplicates` flag
+[2023-09-13 12:57:23.683] [puff::index::jointLog] [info] Replaced 151,122,967 non-ATCG nucleotides
+[2023-09-13 12:57:23.684] [puff::index::jointLog] [info] Clipped poly-A tails from 2,033 transcripts
+[2023-09-13 12:57:29.959] [puff::index::jointLog] [info] Filter size not provided; estimating from number of distinct k-mers
+[2023-09-13 12:58:02.159] [puff::index::jointLog] [info] ntHll estimated 2628784774 distinct k-mers, setting filter size to 2^36
+[2023-09-13 13:19:39.617] [puff::index::jointLog] [info] Starting the Pufferfish indexing by reading the GFA binary file.
+[2023-09-13 13:19:39.617] [puff::index::jointLog] [info] Setting the index/BinaryGfa directory salmon_index
+[2023-09-13 13:19:47.262] [puff::index::jointLog] [info] Done wrapping the rank vector with a rank9sel structure.
+[2023-09-13 13:19:47.995] [puff::index::jointLog] [info] contig count for validation: 37,302,778
+[2023-09-13 13:20:13.287] [puff::index::jointLog] [info] Total # of Contigs : 37,302,778
+[2023-09-13 13:20:13.287] [puff::index::jointLog] [info] Total # of numerical Contigs : 37,302,778
+[2023-09-13 13:20:16.761] [puff::index::jointLog] [info] Total # of contig vec entries: 375,741,531
+[2023-09-13 13:20:16.761] [puff::index::jointLog] [info] bits per offset entry 29
+[2023-09-13 13:21:05.806] [puff::index::jointLog] [info] Done constructing the contig vector. 37302779
+[2023-09-13 13:21:37.590] [puff::index::jointLog] [info] # segments = 37,302,778
+[2023-09-13 13:21:37.590] [puff::index::jointLog] [info] total length = 3,781,971,583
+[2023-09-13 13:21:38.316] [puff::index::jointLog] [info] Reading the reference files ...
+[2023-09-13 13:21:57.285] [puff::index::jointLog] [info] positional integer width = 32
+[2023-09-13 13:21:57.285] [puff::index::jointLog] [info] seqSize = 3,781,971,583
+[2023-09-13 13:21:57.285] [puff::index::jointLog] [info] rankSize = 3,781,971,583
+[2023-09-13 13:21:57.285] [puff::index::jointLog] [info] edgeVecSize = 0
+[2023-09-13 13:21:57.285] [puff::index::jointLog] [info] num keys = 2,662,888,243
+[2023-09-13 13:23:22.615] [puff::index::jointLog] [info] mphf size = 1663.37 MB
+[2023-09-13 13:23:29.917] [puff::index::jointLog] [info] chunk size = 315,164,299
+[2023-09-13 13:23:29.917] [puff::index::jointLog] [info] chunk 0 = [0, 315,164,305)
+[2023-09-13 13:23:29.917] [puff::index::jointLog] [info] chunk 1 = [315,164,305, 630,328,604)
+[2023-09-13 13:23:29.917] [puff::index::jointLog] [info] chunk 2 = [630,328,604, 945,492,903)
+[2023-09-13 13:23:29.917] [puff::index::jointLog] [info] chunk 3 = [945,492,903, 1,260,657,202)
+[2023-09-13 13:23:29.917] [puff::index::jointLog] [info] chunk 4 = [1,260,657,202, 1,575,821,512)
+[2023-09-13 13:23:29.917] [puff::index::jointLog] [info] chunk 5 = [1,575,821,512, 1,890,985,811)
+[2023-09-13 13:23:29.917] [puff::index::jointLog] [info] chunk 6 = [1,890,985,811, 2,206,150,110)
+[2023-09-13 13:23:29.917] [puff::index::jointLog] [info] chunk 7 = [2,206,150,110, 2,521,314,409)
+[2023-09-13 13:23:29.917] [puff::index::jointLog] [info] chunk 8 = [2,521,314,409, 2,836,478,708)
+[2023-09-13 13:23:29.917] [puff::index::jointLog] [info] chunk 9 = [2,836,478,708, 3,151,643,007)
+[2023-09-13 13:23:29.917] [puff::index::jointLog] [info] chunk 10 = [3,151,643,007, 3,466,807,306)
+[2023-09-13 13:23:29.917] [puff::index::jointLog] [info] chunk 11 = [3,466,807,306, 3,781,971,553)
+[2023-09-13 13:25:23.809] [puff::index::jointLog] [info] finished populating pos vector
+[2023-09-13 13:25:23.809] [puff::index::jointLog] [info] writing index components
+[2023-09-13 13:25:58.316] [puff::index::jointLog] [info] finished writing dense pufferfish index
